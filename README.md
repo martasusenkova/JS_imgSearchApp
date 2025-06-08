@@ -11,9 +11,6 @@ A simple web application that allows users to search for images using the [Unspl
 - Load more results with pagination
 - Responsive design (optional — if implemented)
 
-## Demo
-
-*Coming soon* (or replace with a deployed link if you have one)
 
 ## Technologies Used
 
