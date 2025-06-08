@@ -22,10 +22,4 @@ A simple web application that allows users to search for images using the [Unspl
 - JavaScript (Vanilla)
 - Unsplash API
 
-## Setup & Usage
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/unsplash-image-search.git
-   cd unsplash-image-search
